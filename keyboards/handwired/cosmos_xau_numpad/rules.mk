@@ -1,0 +1,20 @@
+# Build Options
+#   change yes to no to disable
+
+BOOTLOADER = rp2040
+AUDIO_SUPPORTED = no
+RGB_MATRIX_SUPPORTED = no
+RGBLIGHT_SUPPORTED = no
+BOOTMAGIC_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+NKRO_ENABLE = yes
+
+# Encoder
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+
+#Via
+VIA_ENABLE = yes
+
+#Debug
+CONSOLE_ENABLE=yes
