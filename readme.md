@@ -6,6 +6,21 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/pulse/monthly)
 [![GitHub forks](https://img.shields.io/github/forks/qmk/qmk_firmware.svg?style=social&label=Fork)](https://github.com/qmk/qmk_firmware/)
 
+---
+## 🎹 Custom Keyboards in This Fork
+
+**This is the default branch containing custom handwired keyboard designs by IIxauII:**
+
+- **[Cosmos XAU](/keyboards/handwired/cosmos_xau/)** - Full-size custom keyboard
+- **[Cosmos XAU Mini](/keyboards/handwired/cosmos_xau_mini/)** - Compact variant
+- **[Cosmos XAU Numpad](/keyboards/handwired/cosmos_xau_numpad/)** - Standalone numpad
+
+All keyboards support VIA configurator. See individual keyboard folders for build guides and details.
+
+> **Note:** This branch contains the custom keyboards. The `master` branch tracks the official QMK firmware.
+
+---
+
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the Clueboard product line.
 
 ## Documentation
