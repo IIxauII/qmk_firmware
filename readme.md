@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://imgur.com/gallery/3d-printed-handwired-keyboards-5OE84jd">
+    <img src=".github/images/cosmos-xau-setup.jpeg" alt="Two split keyboard halves with the Cosmos XAU Numpad in the middle" width="800">
+  </a>
+</p>
+
 ## 🎹 Custom Keyboards in This Fork
 
 **This is the default branch containing [custom handwired keyboard designs by IIxauII](https://imgur.com/gallery/3d-printed-handwired-keyboards-5OE84jd):**
